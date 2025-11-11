@@ -299,7 +299,6 @@ TOTAL                   :- ₹1,887
 
 ## 📧 Author Contact detail 
 
-**Your Name**
 - GitHub: [@itsomg134](https://github.com/itsomg134)
 - Twitter: [@omgedam](https://x.com/its_om_g_143?t=8I7F1GBJO6jLU1AaoQLgYQ&s=09)
 - Email: omgedam123098@gmail.com
